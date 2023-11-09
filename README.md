@@ -118,7 +118,9 @@ sunny:$5$iRMbpnBv$Zh7s6D7ColnogCdiVE5Flz9vCZOMkUFxklRhhaShxv3:17636::::::
 
 Y la que yo use es ver en GTOBINs y ahi nos regresa una shell root.
 
+## Bibliografia 
 
+> https://www.zonasystem.com/2020/06/password-cracking-en-linux-john-the-ripper-hashcat.html
 
 
 
